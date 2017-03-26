@@ -1,7 +1,6 @@
 # Site settings
-title: slim
-baseurl: "/slim"
-url: "http://syaning.com"
+title: Blog
+url: "http://vincentliaw.me/blog"
 
 # Build settings
 kramdown:
