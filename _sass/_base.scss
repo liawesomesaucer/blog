@@ -37,7 +37,7 @@ ul, ol, dl, figure, table,
  * Images
  */
 img {
-    max-width: 100%;
+    width: 100%;
     vertical-align: middle;
 }
 
@@ -190,4 +190,8 @@ hr {
         display: table;
         clear: both;
     }
+}
+
+.page-navigation .next {
+    float: right;
 }
